@@ -1,6 +1,6 @@
 # BetterWebDiscord
 
-> This app was writen by AI, because I don't give a shit about discord, and hate JS/TS... but wanted to add a few cheap features to the web version of discord...
+> This chrome extension is AI slop because I have no time to waste on Discord... and hate JS/TS... but needed a few tweak to make web discord usable...
 
 Chrome extension that adds BetterDiscord-style features to the Discord web app.
 

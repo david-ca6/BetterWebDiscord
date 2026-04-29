@@ -2,13 +2,12 @@
 
 > This chrome extension is AI slop because I have no time to waste on Discord... and hate JS/TS... but needed a few tweak to make web discord usable...
 
-Chrome extension that adds BetterDiscord-style features to the Discord web app.
+Chrome extension that fix features to the Discord web app.
 
 ## Current feature
 
-- Patches Discord's built-in emoji picker.
-- Locked custom emojis become clickable image-link inserts instead of Nitro upsells.
 - Clicking a locked emoji inserts its Discord CDN image URL into the active message box.
+- Clicking a locked sticker inserts its Discord CDN image URL into the active message box.
 
 ## Load locally
 

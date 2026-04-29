@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "BetterWebDiscord",
+  "description": "Adds BetterDiscord-style quality-of-life features to the Discord web app.",
+  "version": "0.1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://discord.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "styles.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
